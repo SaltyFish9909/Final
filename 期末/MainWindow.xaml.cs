@@ -43,7 +43,30 @@ namespace 期末
             else
                 SmallNumber.Text = "/0";
 
-
+            if (MonthNumber = 1)
+                MonthNumber.Text = "Jan";
+            else if (MonthNumber = 2)
+                MonthNumber.Text = "Feb";
+            else if (MonthNumber = 3)
+                MonthNumber.Text = "Mar";
+            else if (MonthNumber = 4)
+                MonthNumber.Text = "Apr";
+            else if (MonthNumber = 5)
+                MonthNumber.Text = "May";
+            else if (MonthNumber = 6) 
+                MonthNumber.Text = "Jun";
+            else if (MonthNumber = 7)
+                MonthNumber.Text = "Jul";
+            else if (MonthNumber = 8)
+                MonthNumber.Text = "Aug";
+            else if (MonthNumber = 9)
+                MonthNumber.Text = "Sept";
+            else if (MonthNumber = 10)
+                MonthNumber.Text = "Oct";
+            else if (MonthNumber = 11)
+                MonthNumber.Text = "Nov";
+            else
+                MonthNumber.Text = "Dec";
         }
 
         private void WeightSlider_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
