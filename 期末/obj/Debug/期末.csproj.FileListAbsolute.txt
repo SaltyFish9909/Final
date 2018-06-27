@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\期末\期末\bin\Debug\期末.exe.config
+C:\Users\user\Desktop\期末\期末\obj\Debug\期末.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\期末\期末\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\期末\期末\obj\Debug\App.g.cs
+C:\Users\user\Desktop\期末\期末\obj\Debug\期末_MarkupCompile.cache
+C:\Users\user\Desktop\期末\期末\obj\Debug\期末_MarkupCompile.lref
+C:\Users\user\Desktop\期末\期末\obj\Debug\Window1.g.cs

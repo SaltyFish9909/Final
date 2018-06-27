@@ -1,0 +1,15 @@
+﻿<Window x:Class="期末.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:期末"
+        mc:Ignorable="d"
+        Title="Window1" Height="600" Width="400">
+    <Grid x:Name="Page2">
+        <Canvas Name="canvas1" Height="600" HorizontalAlignment="Left" VerticalAlignment="Top" Width="400">
+            <Image Name="myImage" Stretch="Fill" VerticalAlignment="Top" Source="https://www.kannz.com/wp-content/uploads/constellation.jpg" Height="570" Width="400" ></Image>
+        </Canvas>
+        <TextBlock x:Name="resultText"></TextBlock>
+    </Grid>
+</Window>
